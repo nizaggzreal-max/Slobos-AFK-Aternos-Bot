@@ -36,13 +36,13 @@
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": false,
+    "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
       "radius": 4,
@@ -60,13 +60,13 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": false,
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": false,
-    "auto-eat": false
+    "attack-mobs": true,
+    "auto-eat": true
   },
   "beds": {
     "pick-up-day": false,
